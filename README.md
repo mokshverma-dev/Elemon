@@ -23,7 +23,7 @@ Provides UI Components for Front-End Developers. HTML,CSS and JS Components with
 
 ## Screenshots (Drive Link)
 
-[Screenshots Google Drive Link](https://drive.google.com/drive/folders/16IRKsXFOKQ2e7Ep4NbPQfihPqGf9ZyJF?usp=share_link)
+[Screenshots Google Drive Link](https://drive.google.com/drive/folders/1qLaIOkZhV4BuAZDlEL9znubAWspf3uYT?usp=share_link)
 
 ## Tech Stack
 
