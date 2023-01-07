@@ -2,7 +2,7 @@
 # Hi, I'm Moksh Verma! 👋
 
 
-![Elemon.in](https://github.com/mokshverma-dev/Resoorces/blob/main/resoorces_logo.png)
+![Elemon.in](https://github.com/mokshverma-dev/Elemon/blob/main/elemon.in%20logo.png)
 
 
 # Elemon.in
@@ -16,10 +16,9 @@ Provides UI Components for Front-End Developers. HTML,CSS and JS Components with
 
 ## Screenshots
 
-![Home Page](https://github.com/mokshverma-dev/Resoorces/blob/main/Screenshot%202023-01-07%20214853.png)
-![Home Page after Login](https://github.com/mokshverma-dev/Resoorces/blob/main/Screenshot%202023-01-07%20215210.png)
-![Explore Page](https://github.com/mokshverma-dev/Resoorces/blob/main/Screenshot%202023-01-07%20215050.png)
-![Explore Page Down Side](https://github.com/mokshverma-dev/Resoorces/blob/main/Screenshot%202023-01-07%20215123.png)
+![Home Page](https://github.com/mokshverma-dev/Elemon/blob/main/home_page.png)
+![Components Page](https://github.com/mokshverma-dev/Elemon/blob/main/components_page.png)
+![Component Page View](https://github.com/mokshverma-dev/Elemon/blob/main/component_page_view.png)
 
 ## Screenshots (Drive Link)
 
